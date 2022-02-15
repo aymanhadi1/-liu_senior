@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965369833930",
+    "project_id": "fibaes-59ef5",
+    "storage_bucket": "fibaes-59ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965369833930:android:3dfd6e1cd8c67ff2b20733",
+        "android_client_info": {
+          "package_name": "com.example.firebses2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965369833930-25d67aqjsjh8dtr77hiiu3ip9aalle0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEl0Nj8ldaDdw1ALZEOMBRQqFLCBLwrcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965369833930-25d67aqjsjh8dtr77hiiu3ip9aalle0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
